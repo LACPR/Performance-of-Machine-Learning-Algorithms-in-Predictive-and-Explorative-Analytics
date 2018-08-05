@@ -6,7 +6,7 @@ To analyze the performance of classification machine learning algorithms, a data
 
 Initially, 22 features were selected for the classification, but all algorithms led to poor performance. Finally, only 10 significant features were selected for the final analysis.
 
-Artificial neural network with 2 hidden layers outperform other algorithms. In the final analysis, it can be concluded that artificial neural networks with more hidden layers (deep Learning) is ideal to predict the readmission of diabetic patients.
+Artificial neural network with 2 hidden layers outperform other algorithms. In the final analysis, it can be concluded that artificial neural networks with more hidden layers (deep Learning) are optimal for predicting the readmission status of diabetic patients.
 
 
 Apriori algorithm was used for association rule learning. 
