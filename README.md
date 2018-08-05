@@ -7,4 +7,4 @@ To analyze the performance of classification machine learning algorithms, a data
 Initially, 22 features were selected for the classification, but all algorithms led to poor performance. Finally, only 10 significant features were selected for the final analysis.
 
 Apriori algorithm was used for association rule learning. 
-K-means clustering was used for clustering data.
+K-means clustering was applied to the dataset without normalizing data.
