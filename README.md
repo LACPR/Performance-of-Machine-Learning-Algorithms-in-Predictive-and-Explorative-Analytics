@@ -9,5 +9,5 @@ Initially, 22 features were selected for the classification, but all algorithms 
 Artificial neural network with 2 hidden layers outperform other algorithms. In the final analysis, it can be concluded that artificial neural networks with more hidden layers (deep Learning) are optimal for predicting the readmission status of diabetic patients.
 
 
-Apriori algorithm was used for association rule learning. 
-K-means clustering was applied to the dataset without normalizing data.
+Apriori Algorithm - Association Rule Learning. 
+PCA - Dimensionality Reduction
